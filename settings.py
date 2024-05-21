@@ -36,7 +36,7 @@ last_layer_optimizer_lr = 1e-4
 coefs = {
     'crs_ent': 1,
     'clst': -0.8,
-    'sep': 0.1,
+    'sep': 0.09,
     'l1': 1e-2,
     'orth': 1e-3,
     'coh': 3e-3#,
