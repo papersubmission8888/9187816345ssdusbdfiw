@@ -4,7 +4,7 @@ from the paper "Interpretable Image Classification with Adaptive Prototype-based
 ## Prerequisites
 PyTorch, NumPy, cv2, Augmentor (https://github.com/mdbloice/Augmentor), Timm
 Recommended hardware: 1 NVIDIA Quadro RTX 6000 (24 GB), 1 NVIDIA Ge Force RTX 4090 (24 GB) or 1 NVIDIA RTX A6000 (48 GB).
-<img src="./arch2.png" width="400px" >
+<img src="./arch2.png" width="800px" >
 
 ## Dataset 
 Instructions for preparing the data:
