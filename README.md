@@ -19,6 +19,8 @@ Instructions for preparing the data:
       "./datasets/cub200_cropped/train_cropped_augmented/"
 
 Dataset Stanford Cars can be downloaded from: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+If the link doesn't work, the dataset can also be found here: 
+https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data 
 
 The code is based on the other repositories: https://github.com/cfchen-duke/ProtoPNet
 
